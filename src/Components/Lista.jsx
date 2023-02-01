@@ -20,6 +20,7 @@ const Lista = () => {
 
         console.log(resultado)
         console.log(contenido)
+
         setDataColaboradores(resultado)
     }
 
@@ -41,7 +42,9 @@ const Lista = () => {
 
 
     return (
+
         <div className='contenedor'>
+            <span></span>
             <Form className="form-title">
                 <Form.Control className="ps-2" size="" type="text" placeholder="Buscar" onChange={(e) => setBuscar(e.target.value)} />
                 <Button className="m-auto d-flex mt-3" variant="secondary" onClick={buscarColaborador}>Buscar</Button>{' '}
