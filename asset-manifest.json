@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dbColaboradores_OsvaldoMartinez/static/css/main.f35747cb.css",
+    "main.js": "/dbColaboradores_OsvaldoMartinez/static/js/main.69368098.js",
+    "index.html": "/dbColaboradores_OsvaldoMartinez/index.html",
+    "main.f35747cb.css.map": "/dbColaboradores_OsvaldoMartinez/static/css/main.f35747cb.css.map",
+    "main.69368098.js.map": "/dbColaboradores_OsvaldoMartinez/static/js/main.69368098.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f35747cb.css",
+    "static/js/main.69368098.js"
+  ]
+}
